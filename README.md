@@ -82,7 +82,7 @@ This file defines three VMs for your Kubernetes cluster:
 
 ### Dockerfile
 
-The Dockerfile builds an Ubuntu 20.04-based image that:
+The Dockerfile builds an Ubuntu 24.04-based image that:
 
 1. Updates system packages
 2. Installs SSH and necessary tools
